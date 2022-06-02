@@ -1,4 +1,4 @@
-<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/portfolio%20gif.gif" alt="ecommerceSite" />
+<img src="https://github.com/juliosalasz/juliosalasz/blob/main/assets/ecomerce.gif" alt="ecommerceSite" />
 
 # Ecommerce Website
 
